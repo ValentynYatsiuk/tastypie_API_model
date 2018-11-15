@@ -1,0 +1,1 @@
+# tastypie_API_model
